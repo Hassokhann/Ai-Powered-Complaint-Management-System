@@ -120,7 +120,7 @@ Make sure you have:
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/waqas-gul/Ai-Powered-Complaint-Management-System-main.git
+git clone https://github.com/Hassokhann/Ai-Powered-Complaint-Management-System.git
 
 # 2️⃣ Navigate into the folder
 cd Ai-Powered-Complaint-Management-System
